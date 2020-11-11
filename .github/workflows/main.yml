@@ -1,10 +1,10 @@
-	jobs:
+jobs:
 	
-	  build:
+  build:
 	
-	    name: Hello world action
+	 name: Hello world action
 	
-	    runs-on: ubuntu-latest
+	 runs-on: ubuntu-latest
 	
 	    steps:
 	
